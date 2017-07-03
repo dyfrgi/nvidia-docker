@@ -1,3 +1,9 @@
+nvidia-docker (1.0.1-1) UNRELEASED; urgency=medium
+
+  * Build on Ubuntu 17.04 
+
+ -- NVIDIA CORPORATION <digits@nvidia.com>  Mon, 03 Jul 2017 17:16:19 +0000
+
 nvidia-docker (1.0.1-1) trusty; urgency=low
 
   * Support for Docker 17.03 including EE and CE (Closes: #323, #324)
